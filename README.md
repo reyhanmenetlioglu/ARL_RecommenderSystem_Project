@@ -11,4 +11,5 @@ Armut, Turkey's largest online service platform, brings together service provide
 |          CategoryId| Anonymized categories(Exp:Cleaning, transportation, renovation category)                                  |
 |          CreateDate| The date the service was purchased                                                                        |
 
-Note : A ServiceId can be found under different categories and refers to different services under different categories. (Example: The service with CategoryId 7 and ServiceId 4 is honeycomb cleaning, while the service with CategoryId 2 and ServiceId 4 is furniture assembly)
+##### Note : 
+A ServiceId can be found under different categories and refers to different services under different categories. (Example: The service with CategoryId 7 and ServiceId 4 is honeycomb cleaning, while the service with CategoryId 2 and ServiceId 4 is furniture assembly)
